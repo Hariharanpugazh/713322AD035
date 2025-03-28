@@ -1,13 +1,13 @@
-# 🚀 Affordmed - Social Media Analytics Dashboard
+# 🚀 Social Media Analytics Dashboard
 
-This is a **Next.js + TypeScript + Tailwind CSS** based frontend project developed for the **Affordmed Campus Hiring Evaluation**. It visualizes analytical insights from a simulated social media platform through a responsive and interactive dashboard.
+This is a **Next.js + TypeScript + Tailwind CSS** based frontend project developed for the **Campus Hiring Evaluation**. It visualizes analytical insights from a simulated social media platform through a responsive and interactive dashboard.
 
 ---
 
 ## 📂 Folder Structure
 
 ```
-📦 affordmed-dashboard
+📦 Dashboard
 ┣ 📁 app
 ┃ ┣ 📄 page.tsx             # Home with 3 navigation cards
 ┃ ┣ 📁 top-users
@@ -45,7 +45,7 @@ This is a **Next.js + TypeScript + Tailwind CSS** based frontend project develop
 
 ## 🚪 API Endpoints Used
 
-These APIs are consumed from Affordmed’s provided backend:
+These APIs are consumed from Company’s provided backend:
 
 - **Top Users**: `GET http://localhost:8000/top-users/`
 - **Trending Posts**: `GET http://localhost:8000/posts?type=popular`
@@ -79,8 +79,8 @@ http://localhost:3000/feed      # Latest Feed
 
 ```bash
 # 1. Clone the repository
-$ git clone https://github.com/Hariharanpugazh/affordmed-dashboard.git
-$ cd affordmed-dashboard
+$ git clone https://github.com/Hariharanpugazh/713322AD035.git
+$ cd Question2
 
 # 2. Install dependencies
 $ npm install
@@ -119,4 +119,4 @@ GitHub: [Hariharanpugazh](https://github.com/Hariharanpugazh)
 Contact: [Harlee](https://www.harlee.pro)
 ---
 
-This project was developed as part of a 3-hour assessment challenge. All requirements from Affordmed’s documentation were followed, with care taken to ensure a clean, maintainable frontend experience.
+This project was developed as part of a 3-hour assessment challenge. All requirements from Company’s documentation were followed, with care taken to ensure a clean, maintainable frontend experience.
