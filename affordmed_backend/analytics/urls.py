@@ -1,6 +1,6 @@
 from django.urls import path
-from .views import TopUsersAPIView
+from .views import *
 
 urlpatterns = [
-    path('top-users', TopUsersAPIView.as_view()),  # First required API
+    path('top-users/', top_users),
 ]
