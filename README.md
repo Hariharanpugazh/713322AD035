@@ -116,9 +116,7 @@ Ensure that the backend server is running at `http://localhost:8000` with valid 
 **Hariharan P**  
 Email: hariharanpugazh@gmail.com  
 GitHub: [Hariharanpugazh](https://github.com/Hariharanpugazh)
-
+Contact: [Harlee](https://www.harlee.pro)
 ---
 
 This project was developed as part of a 3-hour assessment challenge. All requirements from Affordmed’s documentation were followed, with care taken to ensure a clean, maintainable frontend experience.
-
-> Built with love ❤️ for Affordmed Campus Hiring Evaluation.
